@@ -1,0 +1,51 @@
+Augmented Eggplant Healthy Leaf
+Augmented Eggplant Insect Pest Disease
+Augmented Eggplant Leaf Spot Disease
+Augmented Eggplant Mosaic Virus Disease
+Augmented Eggplant Small Leaf Disease
+Augmented Eggplant White Mold Disease
+Augmented Eggplant Wilt Disease
+bugday_Healthy
+bugday_septoria
+bugday_stripe_rust
+cay_1. Tea algal leaf spot
+cay_2. Brown Blight
+cay_3. Gray Blight
+cay_4. Helopeltis
+cay_5. Red spider
+cay_6. Green mirid bug
+cay_7. Healthy leaf
+domates böcek hasarı
+domates kırmızı örümcekler
+domates sağlıklı
+domates yaprak kıvırcıklık virüsü
+muz_cordana
+muz_healthy
+muz_pestalotiopsis
+muz_sigatoka
+pamuk_bacterial_blight
+pamuk_curl_virus
+pamuk_fussarium_wilt
+pamuk_healthy
+patates  fitoftora
+patates  mantar
+patates  sağlıklı
+patates bakteri
+pirinç bakteriyel yaprak yanıklığı
+pirinç kahverengi leke
+pirinç sağlıklı
+pirinç yaprak haşlanması
+portakala_Citrus_Canker_Diseases_Leaf_Orange
+portakala_Citrus_Nutrient_Deficiency_Yellow_Leaf_Orange
+portakala_Healthy_Leaf_Orange
+portakala_Multiple_Diseases_Leaf_Orange
+portakala_Young_Healthy_Leaf_Orange
+salatalıkHealthy_leaves
+salatalıkPowdery_mildew
+salatalık_Downy_mildew
+seker_Healthy
+seker_Mosaic
+seker_RedRot
+seker_Rust
+seker_Yellow
+yaprak
